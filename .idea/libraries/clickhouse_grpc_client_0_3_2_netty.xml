@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="clickhouse-grpc-client-0.3.2-netty">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/clickhouse-grpc-client-0.3.2-netty.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/clickhouse-http-client-0.3.2-shaded.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/io.grpc-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.roaringbitmap-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
